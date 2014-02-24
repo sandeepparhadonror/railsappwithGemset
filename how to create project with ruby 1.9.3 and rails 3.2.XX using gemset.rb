@@ -15,6 +15,8 @@ rvm use ruby-1.9.3-p484@rails_3.2.xx --create
 
 gem install rails --version 3.2.14
 
+rvm use 1.9.3@rails-3.2.3 --default
+
 than set the project with ruby 1.9.3 and rails 3.2.14
 
 heml  =>  http://stackoverflow.com/questions/18290080/change-rails-version-used-by-rvm
